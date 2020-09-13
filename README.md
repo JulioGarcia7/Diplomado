@@ -42,6 +42,10 @@ https://gesis.mybinder.org/binder/v2/gh/AprendizajeProfundo/Diplomado/e865451598
    - ¿Qué es modelar? [[Estático]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Ejemplo_Modelamiento.ipynb)
    - Ejemplos de Modelos [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/mod_Modelamiento.ipynb)
 
+ - Introducción a Pandas
+   - ¿Qué es pandas? [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/pandas_Intro.ipynb)
+   - Ejemplo clave: COVID-19 [[Estático]](https://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Fundamentos/Cuadernos/pandas_COVID_Limpie_Base_Nacional.ipynb)
+
 # Recursos
 
 **Diplomado:**
